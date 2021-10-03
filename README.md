@@ -10,3 +10,6 @@ I agree with Peiqi. Nowadays everything is trying to be decentralized, so distri
 
 Dartar
 Particularly powerful, according to the article, is the EDAD jScode sketchpad. This sketchpad displays the configuration of the software architecture, and where all program editing takes plaace. This type of graphical respresentation of software not only simplifies the process of distributed computing, but it also allows for greater optimization of parallel processes. 
+
+Peiqi Liu:
+Sorry that I have created all these pull requests on Github directly. To practice, I made a pull request myself and did it on my local repo.
